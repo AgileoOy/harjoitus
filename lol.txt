@@ -1,5 +1,1 @@
-add dobav
-commit soglasis
-revert vozvrat
-reset sbros
-push pull fetch
+Kaikille hyvää Juhannusta!
