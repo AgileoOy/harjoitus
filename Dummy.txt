@@ -1,1 +1,2 @@
-Onnittelut osaat nyt käyttää Git:iä!!
+﻿Onnittelut osaat nyt käyttää Git:iä!!
+Not so Dummy!
