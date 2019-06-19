@@ -1,0 +1,6 @@
+Moi, Mikko!
+
+Harjotellaan tässä Git:in käyttöä
+
+
+
