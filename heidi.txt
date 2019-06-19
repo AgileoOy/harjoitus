@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Mitä takapenkille kuuluu?
 
@@ -13,3 +14,8 @@ Mitä takapenkille kuuluu?
 19.06.2019  11.19                 0 heidi.txt
                2 File(s)             40 bytes
                2 Dir(s)  44ÿ570ÿ292ÿ224 bytes free
+=======
+McKoppa, koppakuoriainen, 
+koppa, koppa, koppa,
+koppakuoriainen
+>>>>>>> 07f3c75bc26287d2124c03d1b5aaa0efcd126251
