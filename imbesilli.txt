@@ -1,3 +1,4 @@
 Oksalla ollaan
 aivan idioottina
 yritetään hölmöillä Eclipsen git'tissä
+Ei meinaa onnistua
