@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+
+Mitä takapenkille kuuluu?
+
+
  Volume in drive C has no label.
  Volume Serial Number is 8AA9-44C6
 
@@ -9,3 +14,13 @@
 19.06.2019  11.19                 0 heidi.txt
                2 File(s)             40 bytes
                2 Dir(s)  44ÿ570ÿ292ÿ224 bytes free
+=======
+McKoppa, koppakuoriainen, 
+koppa, koppa, koppa,
+koppakuoriainen
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 07f3c75bc26287d2124c03d1b5aaa0efcd126251
+>>>>>>> 9aa4428c87cdb01d0710a6ca189bf1842e1d29fd
